@@ -1,4 +1,8 @@
 package com.silva.murillo.fitnessapp.ui
 
-enum class TypeEnum {
+import android.widget.ImageView
+import android.widget.TextView
+
+enum class TypeEnum(image: ImageView, description: TextView) {
+
 }
